@@ -63,7 +63,7 @@ time <- stack(time.sample); colnames(time) <- c('time.week', 'location.index')
 #for the sake of brevity, model assessment is virtually excluded; some plots are included plots below, nonetheless
 #--distribution fit - diagnostic plots can be used by calling a fitdist summary into a plot()
 
-col.scheme <- c('red3', 'royalblue4', 'springgreen4')
+col.scheme <- c('red3', 'springgreen4', 'royalblue4')
 #--plot of non-cumulative data for location.index subjects (1:3)
 library(ggplot2)
 dens.plot <- ggplot(time[time$location.index %in% seq(1,3),], 
