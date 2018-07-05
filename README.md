@@ -10,7 +10,7 @@ Here is my [full profile](https://bit.ly/2sg94FM).
 
 ___
 
-Visualization examples:
+Preview of Visualizations:
 <img src="https://github.com/rahil-p/stack-exchange/blob/master/weibull/loc1-3.png" width="1000" height="400">
 
 .
