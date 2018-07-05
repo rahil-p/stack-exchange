@@ -12,6 +12,8 @@ ___
 
 Visualization examples:
 <img src="https://raw.githubusercontent.com/rahil-p/stack-exchange/master/weibull/loc1-3.png" width="1000" height="400">
+
+.
 <br />
 
 <img src="https://github.com/rahil-p/stack-exchange/blob/master/f1_accuracy/Rplot.png" width="600" height="400">
